@@ -16,3 +16,6 @@ arduino uno. In this project we are going to combine the two task and doing both
 
 ## Task
 In this project i'm going to combine the blinking of led and the analog read task. We can combine more task as we want 
+
+## Connection
+According to above tutorial we didn't need any complex connection. For led blink we are using on board led of arduino that is on pin 13 and for analog serial read we are using a variable resistor having 3 pins we use middle pin as data pin so putting it into the A0 pin and both end pin to source that is one to 5V and one to Ground
